@@ -3,9 +3,8 @@ annotation_type: pagination
 revision: '00001'
 annotations:
   540813b2129349c1bbf8d6f6c25aacf7:
-    page_index: 1a
-    page_info: null
-    reference: '27840001'
+    imgnum: 1
+    reference: 27840001.tif
     span:
       start: 0
       end: 599
