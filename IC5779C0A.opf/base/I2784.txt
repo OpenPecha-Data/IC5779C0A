@@ -1,30 +1,28 @@
 ༄༅།།བོད་ཀྱི་ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་བ།།
-4 Plogningen
+ 4 Plogningen
 Tibetan Buddhist Resource Center
 Text Scan Input Form - Title Page
-TBRC Volume Number
-TBRC Work Number (W)
-Title
 2784
+TBRC Volume Number
 22175
-གྲུབ་དབང་པདམ་ལུང་རྟོགས་རྒྱ་མཚོ་མཆོག་གི་རྣམ་ཐར་བྱང་ཆུབ་ལམ་བསྟན
-erano ens ende nhung nog
+TBRC Work Number (W )
+Title
+ གྲུབ་དབང་པདམ་ལུང་རྟོགས་རྒྱ་མཚོ་མཆོག་གི་རྣམ་ཐར་བྱང་ཆུབ་ལམ་བསྟན
 grub dbang padma lung rtogs rgya mtsho mchog gi mam thar
+erano ens ende nhung nog
 byang chub lam bstan
 Author
 tshe dbang rdo rje
 Descriptor
 Original Publication
-Place
-dalhousie
-Publisher
-damchoe sangpo
-1984
-Date
+Place dalhousie
+Publisher damchoe sangpo
+Date 1984
 Total Volumes
 Current Volume (of Total)
 Number of TBRC Introductory Pages
 Number of Introductory Pages
+20
 Number of Text Pages
 TBRC Scanning Information
-20
+
